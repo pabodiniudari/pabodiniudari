@@ -34,10 +34,10 @@
   
 - ⚡ Fun fact **
   
-- 🌐 Socials
+- 🌐 Connect with me
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabodini-sinharage/)
-     [![Kaggle]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg))](https://www.kaggle.com/pabodiniudari)
+     [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/pabodiniudari)
 </p>
 ---
 
