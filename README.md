@@ -3,7 +3,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="250" src="D:\uni\Untitled design (2).mp4">
+<img align="right" alt="Coding" width="250" src="D:\uni\ezgif-4-f21f7f7f2f.gif">
 
 - 🔭 I’m currently working on *my personal projects*
 
