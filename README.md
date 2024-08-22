@@ -3,7 +3,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ntu.edu.sg%2Feducation%2Fgraduate-programme%2Fmaster-of-science-in-data-science-%2528msds%2529&psig=AOvVaw1wJG_XinAWACuG3wKguyBq&ust=1724435250638000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCiz6GUiYgDFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="250" src="D:\uni\Untitled design (2).mp4">
 
 - 🔭 I’m currently working on *my personal projects*
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *Pabodiniudari@gmail.com*
   
-- ⚡ Fun fact *Rower, manga reader *
+- ⚡ Fun fact *Rower, manga reader*
   
 - 🌐 Connect with me
 
