@@ -24,7 +24,7 @@
 <br>
 <img align="right" alt="Coding" width="250" src="">
 
-- 🌱 I’m currently working on *my personal projects*
+- 🔭 I’m currently working on *my personal projects*
 
 - 🧑‍🎓 I’m an Undergraduate at *University of Moratuwa*
 
@@ -37,7 +37,8 @@
 - 🌐 Socials
 
      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabodini-sinharage/)
-
+     [![Kaggle]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg))](https://www.kaggle.com/pabodiniudari)
+</p>
 ---
 
 <h3 align="center">My Statistics:</h3>
