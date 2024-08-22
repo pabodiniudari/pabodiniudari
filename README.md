@@ -3,7 +3,7 @@
 
 
 <br>
-<img align="right" alt="Coding" width="250" src="D:\uni\ezgif-4-f21f7f7f2f.gif">
+<img align="right" alt="Coding" width="250" src="https://github.com/pabodiniudari/pabodiniudari/blob/main/ezgif-4-f21f7f7f2f.gif?raw=true">
 
 - 🔭 I’m currently working on *my personal projects*
 
