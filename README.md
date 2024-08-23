@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋<br><br>I'm Pabodini Sinharage</h1>
-<h3 align="center">Passionate Undergraduate | Spatial Data Enthusiast | Balancing Academics & Extracurricular Excellence</h3>
+<h3 align="center">Passionate Businesss Science Undergraduate | Spatial Data Enthusiast | Balancing Academics & Extracurricular Excellence</h3>
 
 
 <br>
